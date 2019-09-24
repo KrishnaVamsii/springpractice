@@ -1,0 +1,9 @@
+INSERT INTO USER_ROLES(id,role_Name,role_Description,ICA,STATUS,user_Id) VALUES (3,'EXTERNAL','TestRole','TEST','ACTIVE','pallavi123');
+INSERT INTO USER_ROLES(id,role_Name,role_Description,ICA,STATUS,user_Id) VALUES (4,'BILL_OPS','DevelopmentRole','TEST','ACTIVE','upesh');
+INSERT INTO USER_ROLES(id,role_Name,role_Description,ICA,STATUS,user_Id) VALUES (5,'BILL_DEV','DevelopmentRole','TEST','ACTIVE','mohit');
+INSERT INTO USER_ROLES(id,role_Name,role_Description,ICA,STATUS,user_Id) VALUES (6,'TAM','DevelopmentRole','TEST','ACTIVE','leela');
+INSERT INTO USER_ROLES(id,role_Name,role_Description,ICA,STATUS,user_Id) VALUES (7,'GCC','DevelopmentRole','TEST','ACTIVE','snehal');
+INSERT INTO USER_ROLES(id,role_Name,role_Description,ICA,STATUS,user_Id) VALUES (8,'CTS','DevelopmentRole','TEST','INACTIVE','pallavi');
+INSERT INTO USER_ROLES(id,role_Name,role_Description,ICA,STATUS,user_Id) VALUES (9,'CCM','DevelopmentRole','TEST','ACTIVE','snehal');
+INSERT INTO USER_ROLES(id,role_Name,role_Description,ICA,STATUS,user_Id) VALUES (10,'BILL_PROJECT','DevelopmentRole','TEST','ACTIVE','shoyam');
+INSERT INTO USER_ROLES(id,role_Name,role_Description,ICA,STATUS,user_Id) VALUES (11,'BILL_ARCH','DevelopmentRole','TEST','ACTIVE','vivek');
